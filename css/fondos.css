@@ -1,0 +1,15 @@
+body{
+    background-image: url(../Recursos_maquetaII/mondrian.jpg);
+}
+#cabecera{
+    background-image: url(../Recursos_maquetaII/rothko.jpg);
+}
+#indice{
+    background-image: url(../Recursos_maquetaII/vangogh2.jpg);
+}
+#contenido{
+    background-image: url(../Recursos_maquetaII/monet2.jpg);
+}
+#piedepagina{
+    background-image: url(../Recursos_maquetaII/kandinsky.jpg);
+}
